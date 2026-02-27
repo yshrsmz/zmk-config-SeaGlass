@@ -25,6 +25,8 @@
   - [5. お疲れさまでした](#5-お疲れさまでした)
 
 
+![sea](https://raw.githubusercontent.com/hama-be/zmk-config-SeaGlass/refs/heads/main/docs/img/sea.jpg)
+
 <a id="1-準備"></a>
 ## 1. 準備
 
