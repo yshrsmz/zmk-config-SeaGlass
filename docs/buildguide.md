@@ -64,7 +64,6 @@
 | 滑り止め用ゴム足 | 8個 | |
 | ガスケットマウント用クッション | 8個 | |
 
-※ TODO: 画像差し替え
 ![all](https://raw.githubusercontent.com/hama-be/zmk-config-SeaGlass/refs/heads/main/docs/img/all.jpg)
 
 
