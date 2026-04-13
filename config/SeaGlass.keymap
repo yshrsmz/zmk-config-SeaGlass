@@ -36,6 +36,16 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <8 9>;
         };
+
+        lang_en {
+            bindings = <&kp LANG2>;
+            key-positions = <12 13>;
+        };
+
+        lang_ja {
+            bindings = <&kp LANG1>;
+            key-positions = <16 17>;
+        };
     };
 
     macros {
